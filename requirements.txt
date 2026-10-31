@@ -1,0 +1,6 @@
+vllm==0.24.0
+torch==2.11.0
+numpy>=1.26
+pillow>=10
+tokenizers>=0.22
+transformers==5.10.1

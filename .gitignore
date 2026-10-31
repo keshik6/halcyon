@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+outputs/
+logs/
+out_gpic-eval/
+captions/

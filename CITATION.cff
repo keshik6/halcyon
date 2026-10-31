@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use Halcyon in your research, please cite our paper."
+type: software
+title: "Halcyon"
+authors:
+  - family-names: "Chandrasegaran"
+    given-names: "Keshigeyan"
+  - family-names: "Zhao"
+    given-names: "Yue"
+  - family-names: "Thomas"
+    given-names: "Armin W."
+  - family-names: "Adeli"
+    given-names: "Ehsan"
+  - family-names: "Wu"
+    given-names: "Jiajun"
+  - family-names: "Niebles"
+    given-names: "Juan Carlos"
+  - family-names: "Li"
+    given-names: "Fei-Fei"
+  - family-names: "Poli"
+    given-names: "Michael"
+repository-code: "https://github.com/keshik6/halcyon"
+url: "https://cs.stanford.edu/~keshik/halcyon"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Text-to-Image Generative Modeling Without Language Pretraining"
+  authors:
+    - family-names: "Chandrasegaran"
+      given-names: "Keshigeyan"
+    - family-names: "Zhao"
+      given-names: "Yue"
+    - family-names: "Thomas"
+      given-names: "Armin W."
+    - family-names: "Adeli"
+      given-names: "Ehsan"
+    - family-names: "Wu"
+      given-names: "Jiajun"
+    - family-names: "Niebles"
+      given-names: "Juan Carlos"
+    - family-names: "Li"
+      given-names: "Fei-Fei"
+    - family-names: "Poli"
+      given-names: "Michael"
+  journal: "arXiv preprint arXiv:2610.26863"
+  year: 2026
+  url: "https://arxiv.org/abs/2610.26863"
